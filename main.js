@@ -29,6 +29,8 @@ function winner () {
 
     //I am awfully close to figuring this logic out
 
+    // start thinking of OOP build out
+
     // winCombination.forEach((element, index) => box[index].innerText = index)
 }
 

@@ -27,8 +27,10 @@ function winner () {
         [2,4,6]
     ]
 
-    winCombination.forEach(element => {
-        // if ()
-    })
+    //I am awfully close to figuring this logic out
+
+    // winCombination.forEach((element, index) => box[index].innerText = index)
 }
+
+winner();
 

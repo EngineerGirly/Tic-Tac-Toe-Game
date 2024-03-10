@@ -12,6 +12,7 @@ box.forEach(cell => {
     cell.onclick = () => {
         cell.innerText = turn
         turn == 'X' ? turn = 'O' : turn = 'X'
+        winner();
     }
 })
 
@@ -27,12 +28,16 @@ function winner () {
         [2,4,6]
     ]
 
+    winCombination.forEach(combo => {
+        if(box[combo[0]].innerText === box[combo[1]].innerText && box[combo[1]].innerText === box[combo[2]].innerText && box[combo[0]].innerText !== '') {
+            console.log(box[combo[0]].innerText + ' won')
+        }
+    })
+
     //I am awfully close to figuring this logic out
 
     // start thinking of OOP build out
 
     // winCombination.forEach((element, index) => box[index].innerText = index)
 }
-
-winner();
 

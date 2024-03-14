@@ -1,4 +1,4 @@
-<h1>Tic-Tac-Toe Game</h1>
+<h1 class='top'>Tic-Tac-Toe Game</h1>
 
 <p>This project showcases a fully functional Tic Tac Toe game implemented in JavaScript, HTML, and CSS. Featuring intuitive gameplay and responsive design, it offers an engaging user experience while demonstrating proficiency in web development fundamentals.</p>
 <figure>
@@ -48,4 +48,4 @@
 
 
 
-<a href="https://github.com/EngineerGirly/Tic-Tac-Toe-Game/new/main?filename=README.md">back to top ⬆️</a>
+<a href=".top">back to top ⬆️</a>

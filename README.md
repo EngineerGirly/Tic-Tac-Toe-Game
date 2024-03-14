@@ -46,6 +46,12 @@
    <li>Testing and Quality Assurance: Writing test cases and performing manual or automated testing to verify the functionality and reliability of the game, fostering a mindset of quality assurance.</li>
 </ul>
 
+<h3>Upcoming Features:</h3>
+<ul>
+   <li>Users will be able to play Tic Tac Toe against the computer</li>
+   <li>Users will be able to include their names for score tracking purposes</li>
+</ul>
+
 
 
 <a href="#top">back to top ⬆️</a>

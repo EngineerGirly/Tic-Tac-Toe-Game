@@ -48,6 +48,7 @@
 
 <h3>Upcoming Features:</h3>
 <ul>
+   <li>Functionality for a draw case will be added</li>
    <li>Users will be able to play Tic Tac Toe against the computer</li>
    <li>Users will be able to include their names for score tracking purposes</li>
    <li>Addition of a button to reset scoresheet without reloading the page</li>

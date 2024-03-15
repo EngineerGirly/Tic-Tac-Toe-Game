@@ -2,7 +2,7 @@
 
 <p>This project showcases a fully functional Tic Tac Toe game implemented in JavaScript, HTML, and CSS. Featuring intuitive gameplay and responsive design, it offers an engaging user experience while demonstrating proficiency in web development fundamentals.</p>
 <figure>
-   <img src="#" alt="Tic-Tac-Toe Game Demo" />
+   <img src="https://github.com/EngineerGirly/Tic-Tac-Toe-Game/blob/main/demo.gif" alt="Tic-Tac-Toe Game Demo" />
 </figure>
 
 <h2>Overview</h2>

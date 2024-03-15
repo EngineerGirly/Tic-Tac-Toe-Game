@@ -58,7 +58,10 @@ function winner () {
     // function clears the inner text for all cells and enables the start of a new round of play
     // reinitializes turn to be X
     function resetGame() {
-        box.forEach(element => element.innerText = '' )
+        box.forEach(element => {
+            element.innerText = '';
+            element.style.background = 'rgba(0,0,0,0.1)';
+        })
         turn = 'X'
     }
 

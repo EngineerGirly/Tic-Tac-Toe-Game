@@ -50,6 +50,8 @@
 <ul>
    <li>Users will be able to play Tic Tac Toe against the computer</li>
    <li>Users will be able to include their names for score tracking purposes</li>
+   <li>Addition of a button to reset scoresheet without reloading the page</li>
+   <li>More DOM manipulation when a round is won, illustration the end of the match. (line drawn across winning cells, game board covered with an overlay layer and becoming unclickable, etc.)</li>
 </ul>
 
 

@@ -39,6 +39,9 @@ function winner () {
     winCombination.forEach(combo => {
         // if current index at 0,1 and 2 are the same, game has been won
         if(box[combo[0]].innerText === box[combo[1]].innerText && box[combo[1]].innerText === box[combo[2]].innerText && box[combo[0]].innerText !== '') {
+            box[combo[0]].style.background = "rgb(125, 161, 112)";
+            box[combo[1]].style.background = "rgb(125, 161, 112)";
+            box[combo[2]].style.background = "rgb(125, 161, 112)";
             // alerts the winner 
             alert(box[combo[0]].innerText + ' has won this round!')
             // increments score card dependent on what letter won the game
